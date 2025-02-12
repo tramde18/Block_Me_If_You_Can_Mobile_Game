@@ -38,5 +38,6 @@ This game was developed using Unity 3D, a cross-platform game engine, and built 
 - **Unity 3D 2020.1.11f1:** Game development engine for creating 3D environments and gameplay mechanics.
 - **C#:** Scripting language used for gameplay logic, AI, and controls.
 - **Android SDK:** For building and deploying the game on Android devices.
-- **Blender:** 3D modeling tool for character, environment and UI design.
+- **Blender:** 3D modeling tool for character and environment.
+- **Photoshop:** Editing tool for UI design.
 - **Mixamo:** Publicly available mocap (motion capture) animations
