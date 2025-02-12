@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1stLaneEnemy
+  - UpBoundery
+  - DownBoundery
+  - worldSpaceObj
+  - Quadrant1
+  - Quadrant2
+  - Quadrant3
+  - Quadrant4
+  - 1stLaneSensor
+  - 3rdLaneEnemy
+  - 2ndLaneEnemy
+  - MidLaneEnemy
+  - 3rdLaneSensor
+  - Quadrant1Timer
+  - Quadrant2Timer
+  - Quadrant3Timer
+  - Quadrant4Timer
+  - GameOverUI
+  - Powerups
+  - SlideBtn
+  - PowerupsQ4
+  - PowerupsQ3
+  - PowerupsQ2
+  - PowerupsQ1
+  - Sounds
+  - BestTime
+  - YourTime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

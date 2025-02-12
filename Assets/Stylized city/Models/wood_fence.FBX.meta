@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 757540823125d4f4c8b9b5b601308ecf
+timeCreated: 1446052893
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box143
+    100002: Box144
+    100004: Box145
+    100006: Box146
+    100008: Box147
+    100010: Box148
+    100012: Box149
+    100014: Box150
+    100016: Box151
+    100018: Box152
+    100020: Box153
+    100022: Box154
+    100024: Box155
+    100026: //RootNode
+    400000: Box143
+    400002: Box144
+    400004: Box145
+    400006: Box146
+    400008: Box147
+    400010: Box148
+    400012: Box149
+    400014: Box150
+    400016: Box151
+    400018: Box152
+    400020: Box153
+    400022: Box154
+    400024: Box155
+    400026: //RootNode
+    2300000: Box143
+    2300002: Box144
+    2300004: Box145
+    2300006: Box146
+    2300008: Box147
+    2300010: Box148
+    2300012: Box149
+    2300014: Box150
+    2300016: Box151
+    2300018: Box152
+    2300020: Box153
+    2300022: Box154
+    2300024: Box155
+    3300000: Box143
+    3300002: Box144
+    3300004: Box145
+    3300006: Box146
+    3300008: Box147
+    3300010: Box148
+    3300012: Box149
+    3300014: Box150
+    3300016: Box151
+    3300018: Box152
+    3300020: Box153
+    3300022: Box154
+    3300024: Box155
+    4300000: Box143
+    4300002: Box144
+    4300004: Box145
+    4300006: Box146
+    4300008: Box147
+    4300010: Box148
+    4300012: Box149
+    4300014: Box150
+    4300016: Box151
+    4300018: Box152
+    4300020: Box153
+    4300022: Box154
+    4300024: Box155
+    6400000: Box143
+    6400002: Box144
+    6400004: Box145
+    6400006: Box146
+    6400008: Box147
+    6400010: Box148
+    6400012: Box149
+    6400014: Box150
+    6400016: Box151
+    6400018: Box152
+    6400020: Box153
+    6400022: Box154
+    6400024: Box155
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: f46f566e98b504b47a33e1db9b754e60, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

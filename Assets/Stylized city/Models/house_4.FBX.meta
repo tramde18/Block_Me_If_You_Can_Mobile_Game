@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 78ad146b0d63bb34a8212083c3ccd9e0
+timeCreated: 1447000289
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box1445
+    100002: Box1446
+    100004: Box1447
+    100006: h2_smoke_hall011
+    100008: h2_smoke_hall012
+    100010: house_2_roof013
+    100012: house_2_roof014
+    100014: house_2_underroof012
+    100016: house_2_underroof013
+    100018: //RootNode
+    100020: Object277
+    100022: Object278
+    100024: Object279
+    100026: Object280
+    100028: Object281
+    100030: Object282
+    100032: Object283
+    100034: Object284
+    100036: Box1448
+    100038: house_005
+    100040: Object285
+    100042: Object286
+    100044: Object287
+    400000: Box1445
+    400002: Box1446
+    400004: Box1447
+    400006: h2_smoke_hall011
+    400008: h2_smoke_hall012
+    400010: house_2_roof013
+    400012: house_2_roof014
+    400014: house_2_underroof012
+    400016: house_2_underroof013
+    400018: //RootNode
+    400020: Object277
+    400022: Object278
+    400024: Object279
+    400026: Object280
+    400028: Object281
+    400030: Object282
+    400032: Object283
+    400034: Object284
+    400036: Box1448
+    400038: house_005
+    400040: Object285
+    400042: Object286
+    400044: Object287
+    2300000: Box1445
+    2300002: Box1446
+    2300004: Box1447
+    2300006: h2_smoke_hall011
+    2300008: h2_smoke_hall012
+    2300010: house_2_roof013
+    2300012: house_2_roof014
+    2300014: house_2_underroof012
+    2300016: house_2_underroof013
+    2300018: Object277
+    2300020: Object278
+    2300022: Object279
+    2300024: Object280
+    2300026: Object281
+    2300028: Object282
+    2300030: Object283
+    2300032: Object284
+    2300034: Box1448
+    2300036: Object285
+    2300038: Object286
+    2300040: Object287
+    3300000: Box1445
+    3300002: Box1446
+    3300004: Box1447
+    3300006: h2_smoke_hall011
+    3300008: h2_smoke_hall012
+    3300010: house_2_roof013
+    3300012: house_2_roof014
+    3300014: house_2_underroof012
+    3300016: house_2_underroof013
+    3300018: Object277
+    3300020: Object278
+    3300022: Object279
+    3300024: Object280
+    3300026: Object281
+    3300028: Object282
+    3300030: Object283
+    3300032: Object284
+    3300034: Box1448
+    3300036: Object285
+    3300038: Object286
+    3300040: Object287
+    4300000: Box1445
+    4300002: Object277
+    4300004: Object278
+    4300006: Object279
+    4300008: Box1446
+    4300010: Object280
+    4300012: Object281
+    4300014: Object282
+    4300016: Object283
+    4300018: house_2_underroof012
+    4300020: house_2_roof013
+    4300022: Box1447
+    4300024: h2_smoke_hall011
+    4300026: h2_smoke_hall012
+    4300028: house_2_roof014
+    4300030: house_2_underroof013
+    4300032: Object284
+    4300034: Box1448
+    4300036: Object285
+    4300038: Object286
+    4300040: Object287
+    6400000: Box1445
+    6400002: Box1446
+    6400004: Box1447
+    6400006: Box1448
+    6400008: h2_smoke_hall011
+    6400010: h2_smoke_hall012
+    6400012: house_2_roof013
+    6400014: house_2_roof014
+    6400016: house_2_underroof012
+    6400018: house_2_underroof013
+    6400020: Object277
+    6400022: Object278
+    6400024: Object279
+    6400026: Object280
+    6400028: Object281
+    6400030: Object282
+    6400032: Object283
+    6400034: Object284
+    6400036: Object285
+    6400038: Object286
+    6400040: Object287
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default22
+    second: {fileID: 2100000, guid: 01b72bbdc8f896c4294edacf5a906463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a773bd7a075f9534e9c9ed1eb6e9a30f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground_green22
+    second: {fileID: 2100000, guid: 705783b07ff0f904c825b8de2bef4397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: insides_2
+    second: {fileID: 2100000, guid: 9cc3c2bbff5d71d45ab82bdd222f75c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_1_2
+    second: {fileID: 2100000, guid: e0a7b386dda4b90448ad5625765ee0f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls_3
+    second: {fileID: 2100000, guid: 4e286f1838f8c2c47a0ec6cab957b0c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows_2
+    second: {fileID: 2100000, guid: db1318ffb13bfef419a8dad09473425d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: f46f566e98b504b47a33e1db9b754e60, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
